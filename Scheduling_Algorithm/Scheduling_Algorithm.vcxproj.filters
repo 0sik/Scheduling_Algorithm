@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Project1\Project1\SPN.c">
+    <ClCompile Include="FCFS.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FCFS.c">
+    <ClCompile Include="SPN.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
